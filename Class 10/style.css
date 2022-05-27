@@ -1,0 +1,12 @@
+h2{
+    font-family:sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    font-weight:normal;
+    font-style: italic;
+    color: red;
+    text-transform:uppercase;
+    text-transform:lowercase;
+    text-transform:capitalize;
+
+}

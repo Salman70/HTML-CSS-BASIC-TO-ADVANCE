@@ -1,0 +1,16 @@
+/* font-family: 'Comforter', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Gothic A1', sans-serif;
+font-family: 'Noto Serif JP', serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Tajawal', sans-serif; */
+
+
+.Comforter{
+    font-family: Comforter;
+    font-weight: 700;
+}
+.second {
+    font-family:Noto Serif JP ;
+    font-weight: 800;
+}

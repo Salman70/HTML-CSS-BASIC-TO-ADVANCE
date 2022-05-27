@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+.btn{
+    background-color: black;
+    margin: 50px 0 0 50px;
+    border: none;
+    padding: 3px 6px;
+    border-radius: 2px;
+    transition: 1s;
+}
+.btn:hover{
+    background-color: orange;
+}
+.btn a{
+text-decoration: none;
+color: rgb(222, 36, 36);
+}
+.btn a{
+    color: rgb(213, 10, 10);
+}

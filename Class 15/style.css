@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+.mydiv{
+    width: 300px;
+    height: 250px;
+    background:url(photo1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 10px;
+    
+    transition: 1s;
+}
+.mydiv:hover{
+    width: 350px;
+    height: 300px;
+    background:url(photo2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.mydiv2{
+    background-image:url(photo3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 300px;
+    height: 200px;
+    margin: 0 auto;
+    cursor: pointer;
+    transition: 1s;
+}
+.mydiv2:hover{
+    width: 700px;
+}

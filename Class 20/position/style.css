@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+.mydiv1{
+    width: 400px;
+    height: 200px;
+    background-color: aqua;
+    position:relative;
+}
+.mydiv2{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}

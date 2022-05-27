@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+.one{
+    float: left;
+    width: 250px;
+}
+.two{
+    float: left;
+    width: 250px;
+}

@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+.div1{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    float: left;
+    /* margin-left: 50px; */
+
+}
+/* .div2{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    float: right;
+} */
+.div2{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    float: left;
+    margin-left: 5px;
+}

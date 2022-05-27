@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+/* .pstyle{
+    width: 400px;
+    height: 350px;
+    text-align: justify;
+    line-height: 24px;
+    border: 2px solid red;
+    overflow: scroll;
+} */
+.pstyle{
+   
+   
+}
+.psecond{
+    background-color: red;
+    display: inline;
+}
